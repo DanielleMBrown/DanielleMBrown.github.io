@@ -2,8 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
+#### NJDOH 2019 Animal Shelter Data
 [![NJDOH 2019 Animal Shelter Data](images/NJDOH_2019_Animal_Shelters.jpg)](https://arcg.is/1GvOjX)
 
 ---
