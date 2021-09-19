@@ -4,8 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![NJDOH 2019 Animal Shelter Data](images/NJDOH_2019_Animal_Shelters.jpg)](https://arcg.is/1GvOjX)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
