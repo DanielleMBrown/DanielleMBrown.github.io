@@ -4,12 +4,13 @@
 
 ### Projects 
 
-#### NJDOH 2019 Animal Shelter Data
-[![NJDOH 2019 Animal Shelter Data](images/NJDOH_2019_Animal_Shelters.jpg)](https://arcg.is/1GvOjX)
+### National Park After Dark Podcast Story Map
+[![National Park After Dark Podcast Story Map](images/NPAD_thumbnail.jpg)](https://arcg.is/0Sy4DO)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+#### NJDOH 2019 Animal Shelter Data
+[![NJDOH 2019 Animal Shelter Data](images/NJDOH_2019_Animal_Shelters.jpg)](https://arcg.is/1GvOjX)
 
 ---
 [Project 3 Title](http://example.com/)
