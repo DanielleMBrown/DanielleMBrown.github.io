@@ -10,7 +10,7 @@
 ---
 
 #### NJDOH 2019 Animal Shelter Data
-[![NJDOH 2019 Animal Shelter Data](images/NJDOH_2019_Animal_Shelters.jpg)](https://arcg.is/1GvOjX)
+[![NJDOH 2019 Animal Shelter Data](images/NJDOH_2019_Animal_Shelters_thumbnail.jpg)](https://arcg.is/1GvOjX)
 
 ---
 [Project 3 Title](http://example.com/)
