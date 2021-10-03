@@ -12,6 +12,9 @@
 #### NJDOH 2019 Animal Shelter Data
 [![NJDOH 2019 Animal Shelter Data](images/NJDOH_2019_Animal_Shelters_thumbnail.jpg)](https://arcg.is/1GvOjX)
 
+#### Kincade Fire Burn Area in California: Before, After, and dNBR
+[![Kincade Fire Burn Area](images/kincade_fire_GEE_app.jpg)](https://danielle-brown.users.earthengine.app/view/kincade-fire-before-after-and-dnbr)
+
 ---
 [Exploring Rehabilitated Sea Turtle Tracking](pdf/sea_turtle_report_gis5653.pdf)
 
