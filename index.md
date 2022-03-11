@@ -21,8 +21,8 @@
 In this project I used Python to explore sea turtle tracking data in ArcMap.
 
 ---
-[Changes in Glaciers at Glacier National Park from 1966 through 2015](http://qgiscloud.com/DaniBrown/Glaciers)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Changes in Glaciers at Glacier National Park from 1966 through 2015
+[![Glacier National Park Changes](images/Glacier_Natl_Park.jpg)](http://qgiscloud.com/DaniBrown/Glaciers)
 
 ---
 
