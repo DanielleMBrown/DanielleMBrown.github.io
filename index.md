@@ -4,13 +4,20 @@
 
 ### Projects 
 
-### National Park After Dark Podcast Story Map
-[![National Park After Dark Podcast Story Map](images/NPAD_thumbnail.jpg)](https://arcg.is/0Sy4DO)
+#### Changes in Glaciers at Glacier National Park from 1966 through 2015
+[![Glacier National Park Changes](images/Glacier_Natl_Park.jpg)](http://qgiscloud.com/DaniBrown/Glaciers)
 
 ---
 
 #### NJDOH 2019 Animal Shelter Data
 [![NJDOH 2019 Animal Shelter Data](images/NJDOH_2019_Animal_Shelters_thumbnail.jpg)](https://arcg.is/1GvOjX)
+
+---
+
+### National Park After Dark Podcast Story Map
+[![National Park After Dark Podcast Story Map](images/NPAD_thumbnail.jpg)](https://arcg.is/0Sy4DO)
+
+---
 
 #### Kincade Fire Burn Area in California: Before, After, and dNBR
 [![Kincade Fire Burn Area](images/kincade_fire_GEE_app.jpg)](https://danielle-brown.users.earthengine.app/view/kincade-fire-before-after-and-dnbr)
@@ -20,9 +27,7 @@
 
 In this project I used Python to explore sea turtle tracking data in ArcMap.
 
----
-#### Changes in Glaciers at Glacier National Park from 1966 through 2015
-[![Glacier National Park Changes](images/Glacier_Natl_Park.jpg)](http://qgiscloud.com/DaniBrown/Glaciers)
+
 
 ---
 
