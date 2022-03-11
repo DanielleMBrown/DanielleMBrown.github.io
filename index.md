@@ -23,9 +23,9 @@
 [![Kincade Fire Burn Area](images/kincade_fire_GEE_app.jpg)](https://danielle-brown.users.earthengine.app/view/kincade-fire-before-after-and-dnbr)
 
 ---
-[Exploring Rehabilitated Sea Turtle Tracking](pdf/sea_turtle_report_gis5653.pdf)
 
-In this project I used Python to explore sea turtle tracking data in ArcMap.
+#### Exploring Rehabilitated Sea Turtle Tracking
+In [this project](pdf/sea_turtle_report_gis5653.pdf) I used Python to explore sea turtle tracking data in ArcMap.
 
 
 
